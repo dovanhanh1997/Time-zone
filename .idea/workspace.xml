@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2931c857-7a80-4abd-83a7-19b985f63454" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Interface-Comparable/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-management-customer-mvc/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface-Comparable/Circle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface-Comparable/ComparableCircle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Interface-Comparable/ComparableReCircle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface-Comparable/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Interface-Comparable/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resizeable/Circle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resizeable/Rectangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resizeable/Shape.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resizeable/Square.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resizeable/function.php" beforeDir="false" afterPath="$PROJECT_DIR$/Resizeable/function.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple-Array-List/ArrayList.php" beforeDir="false" afterPath="$PROJECT_DIR$/Simple-Array-List/ArrayList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple-Array-List/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Simple-Array-List/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries-with-DB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/libraries-with-DB/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login-with-database/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/login-with-database/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-cleancode-refactoring-renaming/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/php-cleancode-refactoring-renaming/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-management-customer-mvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/php-management-customer-mvc/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/php-cleancode-refactoring-renaming/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/libraries-with-DB" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/composer" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/php-cleancode-refactoring-renaming/vendor/phpdocumentor/reflection-docblock" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1P9K2bMsSHK57tKCbATq32BZmjm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libraries-with-DB/function" />
+      <recent name="$PROJECT_DIR$/libraries-with-DB/category" />
+      <recent name="$PROJECT_DIR$/libraries-with-DB/database" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2931c857-7a80-4abd-83a7-19b985f63454" name="Default Changelist" comment="" />
+      <created>1565280665882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565280665882</updated>
+      <workItem from="1565280667011" duration="371000" />
+      <workItem from="1565343074501" duration="1407000" />
+      <workItem from="1565430076458" duration="98000" />
+      <workItem from="1565597871694" duration="18269000" />
+      <workItem from="1565703730297" duration="7632000" />
+      <workItem from="1565882914688" duration="3335000" />
+      <workItem from="1565947564248" duration="5244000" />
+      <workItem from="1565964148240" duration="5955000" />
+      <workItem from="1566634344058" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

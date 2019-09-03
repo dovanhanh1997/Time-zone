@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/324468-Read-number" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/324470-prime-20-number" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Animal-and-Ediable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Colorable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Interface-Comparable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LinkList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Method-Array-List" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Quadratic_Equation_324450" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Resizeable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Simple-Array-List" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libraries-with-DB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/login-with-database" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/php-cleancode-refactoring-method-extraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/php-cleancode-refactoring-renaming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/php-cleancode-refactoring-variable-extraction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/php-management-customer-mvc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/refactoring-exercise" vcs="Git" />
+  </component>
+</project>
