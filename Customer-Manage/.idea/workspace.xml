@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb036643-2731-473e-9dfc-4f724b648fdb" name="Default Changelist" comment="" />
+    <list default="true" id="fb036643-2731-473e-9dfc-4f724b648fdb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interface-Comparable" beforeDir="false" afterPath="$PROJECT_DIR$/../Interface-Comparable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Resizeable" beforeDir="false" afterPath="$PROJECT_DIR$/../Resizeable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple-Array-List" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple-Array-List" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../libraries-with-DB" beforeDir="false" afterPath="$PROJECT_DIR$/../libraries-with-DB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login-with-database" beforeDir="false" afterPath="$PROJECT_DIR$/../login-with-database" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php-cleancode-refactoring-method-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../php-cleancode-refactoring-method-extraction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php-cleancode-refactoring-renaming" beforeDir="false" afterPath="$PROJECT_DIR$/../php-cleancode-refactoring-renaming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php-management-customer-mvc" beforeDir="false" afterPath="$PROJECT_DIR$/../php-management-customer-mvc" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +23,13 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1PgUXOh0pmBCroAsroC7WjEvQ3h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -58,10 +73,22 @@
       <workItem from="1566645993448" duration="4721000" />
       <workItem from="1566741753127" duration="591000" />
       <workItem from="1566803607977" duration="2709000" />
+      <workItem from="1567492952843" duration="407000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
